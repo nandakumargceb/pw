@@ -1,0 +1,6 @@
+Test_Case_Name,Execute,Field_1,Field_2,Result,Comments
+test_travel_mug_30oz_agave_teal_bride_design,Yes,Agave Teal,Bride,Passed,Test completed successfully
+test_rambler_20oz_black_design,No,Black,Classic,,
+test_tumbler_10oz_custom_design,No,Navy Blue,Modern,Passed,Tumbler 10oz custom design test passed
+test_bottle_32oz_bride_design,No,Rose Gold,Elegant,,
+test_sample_test,No,Sample1,Sample2,,This test is disabled for now

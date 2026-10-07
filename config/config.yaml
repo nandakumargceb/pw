@@ -1,0 +1,17 @@
+# Environment Configuration
+# Supported values: SIT, UAT, PROD
+environment: SIT
+
+# Logging Configuration
+logging:
+  level: INFO
+  format: "%(asctime)s - %(name)s - %(levelname)s - %(message)s"
+  file: "logs/execution.log"
+
+# Framework Configuration
+framework:
+  data_format: csv  # Supported values: csv, yaml
+  csv_encoding: utf-8
+  yaml_encoding: utf-8
+  auto_skip_disabled: true
+  log_csv_operations: true

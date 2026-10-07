@@ -1,0 +1,27 @@
+# Core Testing Framework
+pytest==9.0.2
+pytest-playwright==0.7.2
+playwright==1.58.0
+
+# Testing Utilities
+pytest-base-url==2.1.0
+pytest-split==0.11.0
+pytest-flakiness==0.17.0
+
+# Reporting
+allure-pytest==2.15.3
+
+# Accessibility Testing
+axe-playwright-python==0.1.7
+
+# HTTP Requests
+requests==2.33.1
+
+# Code Quality (Optional but recommended)
+ruff==0.15.9
+pre-commit==4.5.1
+
+# CSV and Configuration Management
+PyYAML==6.0.1
+
+# Python version requirement: ~3.11

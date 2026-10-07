@@ -1,0 +1,31 @@
+test_cases:
+- Test_Case_Name: test_travel_mug_30oz_agave_teal_bride_design
+  Execute: 'Yes'
+  Field_1: Agave Teal
+  Field_2: Bride
+  Result: Passed
+  Comments: Updated via YAML test
+- Test_Case_Name: test_rambler_20oz_black_design
+  Execute: 'No'
+  Field_1: Black
+  Field_2: Classic
+  Result: ''
+  Comments: ''
+- Test_Case_Name: test_tumbler_10oz_custom_design
+  Execute: 'No'
+  Field_1: Navy Blue
+  Field_2: Modern
+  Result: Passed
+  Comments: Tumbler 10oz custom design test passed
+- Test_Case_Name: test_bottle_32oz_bride_design
+  Execute: 'No'
+  Field_1: Rose Gold
+  Field_2: Elegant
+  Result: ''
+  Comments: ''
+- Test_Case_Name: test_sample_test
+  Execute: 'No'
+  Field_1: Sample1
+  Field_2: Sample2
+  Result: ''
+  Comments: This test is disabled for now

@@ -1,0 +1,49 @@
+{
+  "category": "pytest",
+  "commitId": "7ef4ffbde6fc08afde60b3769b353ae5ecf52b55",
+  "startTimestamp": 1791300019696,
+  "duration": 5354,
+  "environments": [
+    {
+      "name": "pytest",
+      "systemData": {
+        "osName": "Windows",
+        "osVersion": "11",
+        "osArch": "AMD64"
+      },
+      "metadata": {
+        "python_version": "3.14.3"
+      }
+    }
+  ],
+  "tests": [
+    {
+      "title": "test_travel_mug_30oz_agave_teal_bride_design[chromium]",
+      "location": {
+        "file": "tests/test_yaml_manager.py",
+        "line": 11,
+        "column": 1
+      },
+      "tags": [],
+      "attempts": [
+        {
+          "environmentIdx": 0,
+          "expectedStatus": "passed",
+          "status": "passed",
+          "startTimestamp": 1791300024347,
+          "duration": 65,
+          "errors": [],
+          "stdout": [],
+          "stderr": [
+            {
+              "text": "2026-10-06 11:20:19,767 - INFO - Test_Data folder validated at C:\\Users\\nanda\\Downloads\\Playwright-Python-Example\\Playwright-Python-Example\\Test_Data\n2026-10-06 11:20:19,768 - INFO - Using CSV file: C:\\Users\\nanda\\Downloads\\Playwright-Python-Example\\Playwright-Python-Example\\Test_Data\\SIT.csv\n2026-10-06 11:20:19,771 - INFO - Read 5 rows from SIT.csv\n2026-10-06 11:20:19,771 - INFO - Found 1 executable rows out of 5 total\n2026-10-06 11:20:19,772 - INFO - Loaded 1 executable test(s) from CSV\n2026-10-06 11:20:22,388 - INFO - Test_Data folder validated at C:\\Users\\nanda\\Downloads\\Playwright-Python-Example\\Playwright-Python-Example\\Test_Data\n2026-10-06 11:20:22,392 - INFO - Using CSV file: C:\\Users\\nanda\\Downloads\\Playwright-Python-Example\\Playwright-Python-Example\\Test_Data\\SIT.csv\n2026-10-06 11:20:22,395 - INFO - Read 5 rows from SIT.csv\n2026-10-06 11:20:22,397 - INFO - Found 1 executable rows out of 5 total\n2026-10-06 11:20:22,402 - INFO - Test 'test_travel_mug_30oz_agave_teal_bride_design[chromium]' context set with CSV data\n2026-10-06 11:20:22,404 - INFO - Navigating to SIT environment: https://customize.dev.yeti.com/feature/artboard/configurable.html\n2026-10-06 11:20:24,343 - INFO - Successfully navigated to SIT environment\n2026-10-06 11:20:24,348 - INFO - Test_Data folder validated at C:\\Users\\nanda\\Downloads\\Playwright-Python-Example\\Playwright-Python-Example\\Test_Data\n2026-10-06 11:20:24,352 - INFO - Using YAML file: C:\\Users\\nanda\\Downloads\\Playwright-Python-Example\\Playwright-Python-Example\\Test_Data\\SIT.yaml\n2026-10-06 11:20:24,360 - INFO - Read 5 rows from SIT.yaml\n2026-10-06 11:20:24,361 - INFO - Test_Data folder validated at C:\\Users\\nanda\\Downloads\\Playwright-Python-Example\\Playwright-Python-Example\\Test_Data\n2026-10-06 11:20:24,362 - INFO - Using YAML file: C:\\Users\\nanda\\Downloads\\Playwright-Python-Example\\Playwright-Python-Example\\Test_Data\\SIT.yaml\n2026-10-06 11:20:24,364 - INFO - Using YAML file: C:\\Users\\nanda\\Downloads\\Playwright-Python-Example\\Playwright-Python-Example\\Test_Data\\SIT.yaml\n2026-10-06 11:20:24,375 - INFO - Read 5 rows from SIT.yaml\n2026-10-06 11:20:24,386 - INFO - Updated YAML: test_travel_mug_30oz_agave_teal_bride_design[0].Comments = Updated via YAML test\n2026-10-06 11:20:24,388 - INFO - Test_Data folder validated at C:\\Users\\nanda\\Downloads\\Playwright-Python-Example\\Playwright-Python-Example\\Test_Data\n2026-10-06 11:20:24,389 - INFO - Using YAML file: C:\\Users\\nanda\\Downloads\\Playwright-Python-Example\\Playwright-Python-Example\\Test_Data\\SIT.yaml\n2026-10-06 11:20:24,401 - INFO - Read 5 rows from SIT.yaml\n2026-10-06 11:20:24,403 - INFO - Test_Data folder validated at C:\\Users\\nanda\\Downloads\\Playwright-Python-Example\\Playwright-Python-Example\\Test_Data\n2026-10-06 11:20:24,404 - INFO - Using CSV file: C:\\Users\\nanda\\Downloads\\Playwright-Python-Example\\Playwright-Python-Example\\Test_Data\\SIT.csv\n2026-10-06 11:20:24,409 - INFO - Updated CSV: test_travel_mug_30oz_agave_teal_bride_design[0].Comments = Test completed successfully\n"
+            }
+          ],
+          "annotations": [],
+          "attachments": []
+        }
+      ]
+    }
+  ],
+  "suites": []
+}
